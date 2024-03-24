@@ -1,14 +1,14 @@
-- title: General Information
+- title: Información General
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nombre Completo
+      value: Felipe Mellado Bórquez
+    - name: Fecha de Nacimiento
+      value: 8 de Enero del 2000
+    - name: Residencia
+      value: Santiago, Chile
 
-- title: Education
+- title: Educación
   type: time_table
   contents:
     - title: PhD
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Práctica Estudiantil
+      institution: iSentinel SPA
+      year: 2023
       description:
         - Description 1.
         - Description 2.
